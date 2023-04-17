@@ -7,20 +7,7 @@ redirect_from:
   - /cv
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-XQNNHHYQ5D');
-</script>
-
-
-<!---
-comments
---->
 
 You can download a PDF copy of my CV [here](/files/CV_Wang.pdf).
 

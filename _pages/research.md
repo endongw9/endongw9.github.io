@@ -6,8 +6,8 @@ title: ""
 
 # Working Papers
 
-* “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference,” Feburary, 2023 (with Jean-Marie Dufour)
-* “Generic identification and practical specification for multivariate time series.” April, 2023
+* “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference,” Feburary, 2023. (with Jean-Marie Dufour)
+* “Generic identification and practical specification for multivariate time series.” April, 2023.
 
 # Work in Progress
 

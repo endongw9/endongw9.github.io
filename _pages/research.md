@@ -11,4 +11,4 @@ title: ""
 
 # Work in Progress
 
-* “Misidentification of dynamic causal effect and validity test of external instruments with an incomplete model.” 
+* “The (mis)-identification and estimation of structural impulse responses in sub-space VAR model.” 

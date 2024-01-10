@@ -11,6 +11,8 @@ title: ""
 
 # Teaching assisstant (McGill University)
 
+* ECON 209, Intro to Macroeconomics, Winter 2024
+* ECON 661, Applied Time Series & Forecast, Fall 2023
 * ECON 661, Applied Time Series & Forecast, Winter 2023
 * ECON 664, Applied Cross-sectional Methods, Winter 2023
 * ECON 337, Introduction to Econometrics, Fall 2022

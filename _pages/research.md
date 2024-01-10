@@ -6,9 +6,11 @@ title: ""
 
 # Working Papers
 
-* “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference,” Feburary, 2023. (with Jean-Marie Dufour)
-* “Generic identification and practical specification for multivariate time series.” April, 2023.
+* “Causal mechanism and mediation analysis for macroeconomics dynamics” (with Jean-Marie Dufour)
+* “Simple robust two-stage inference for generalized impulse responses and multiple-horizon causality” (with Jean-Marie Dufour) 
+* “Generic identification and practical specification for multivariate time series” April, 2023.
 
 # Work in Progress
 
-* “The (mis)-identification and estimation of structural impulse responses in sub-space VAR model.” 
+* “Counterfactual analysis and policy intervention in macroeconomics: an IV-based estimation and inference method” 
+* “The (mis)-identification and estimation of structural impulse responses in sub-space VAR model” 

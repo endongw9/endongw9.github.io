@@ -27,17 +27,17 @@ In the field of applied macroeconomics, I employ the econometrics techniques to 
 # Recent & upcoming presentations
 * CEA Annual Conference, Toronto, ON, Jun 2024 (scheduled)
 * CIREQ Econometrics Conference in Honor of Eric Ghysels, May, 2024 (scheduled)
-* CIREQ-McGill Lunch Seminar, Montr\'eal, QC, Feb 2024
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Feb 2024
 * ES-NAWM, San Antonio, TX, Jan 2024
 * Joint Statistical Meetings, Toronto, ON, Aug 2023
 * International Association for Applied Econometrics, Oslo, Norway, July 2023
 * Asia Meeting of the Econometric Society, virtual, June, 2023
 * CEA Annual Conference, Winnipeg, MB, Jun 2023
-* CIREQ Colloquium on Econometrics, Montr\'eal, QC, May 2023
-* CIREQ PhD Students' Conference, Montr\'eal, QC, May 2023
+* CIREQ Colloquium on Econometrics, Montreal, QC, May 2023
+* CIREQ PhD Students' Conference, Montreal, QC, May 2023
 * CMS-CFE conference, virtual, Dec 2022
 * NBER-NFS Time Series conference, Boston, MA, Sep 2022
-* CIREQ-McGill Lunch Seminar, Montr\'eal, QC, Jul 2022
-* CIREQ PhD Students' Conference, Montr\'eal, QC, Jun 2022
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2022
+* CIREQ PhD Students' Conference, Montreal, QC, Jun 2022
 
 

@@ -17,9 +17,9 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 In the field of applied macroeconomics, I employ the econometrics techniques to investigate causal mechanisms and carry out counterfactual analyses for macro variable dynamics. Specifically, the causal mechanism quantifies the mediation effect of specific macro-variables in the causal transmission of an shock of interest, and the counterfactual analysis evaluates the impact of a hypothetical scenario on vital macroeconomic aggregates.
 
 ## Current research interests on Econometrics
-* Vector autoregression and local/linear projection: multi-horizon causality and structural impulse response
+* Vector Autoregression (VAR) and local/linear projection: multi-horizon causality and structural impulse response
 * High dimensionality in time series
-* Vector autoregressive and moving average model
+* Vector Autoregressive and Moving Average (VARMA) model
 
 ## Current research interests on Applied Macroeconomics
 * Counterfactual analysis and mediation analysis

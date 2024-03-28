@@ -12,7 +12,7 @@ redirect_from:
 
 # Welcome to my website!
 
-I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are econometrics and applied macroeconomics. In particular, I study identification, estimation, and statistical inference for both low and high dimensional time series model, including (Structural)-Vector Autoregression (SVAR), Vector Autoregressive and Moving Average (VARMA), and Local Projection/Linear Projection.
+I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are econometrics and applied macroeconomics. In particular, I study identification, estimation, and statistical inference for both low and high dimensional time series models, including (Structural)-Vector Autoregression (SVAR), Vector Autoregressive and Moving Average (VARMA), and Local Projection/Linear Projection.
 
 In the field of applied macroeconomics, I employ the econometrics techniques to investigate causal mechanisms and carry out counterfactual analyses for macro variable dynamics. Specifically, the causal mechanism quantifies the mediation effect of specific macro-variables in the causal transmission of an shock of interest, and the counterfactual analysis evaluates the impact of a hypothetical scenario on vital macroeconomic aggregates. Empirical applications are primiarly centered around money, interest rate, and inflation.
 

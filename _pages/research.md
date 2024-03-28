@@ -23,4 +23,5 @@ title: ""
 * <b> “Generic identification and practical specification for multivariate time series” </b> <br>
    <sub> This paper investigates the generic identification conditions for the vector autoregressive moving average (VARMA) model and presents a practical specification algorithm. Our goal is to offer a flexible VARMA representation as a complement to the rigorous Echelon form. We apply this methodology to impulse response estimation, achieving narrower confidence bands compared to VAR estimation. </sub>
 
-* “The (mis)-identification and estimation of structural impulse responses in sub-space VAR model” 
+* <b> “The (mis)-identification and estimation of structural impulse responses in sub-space VAR model”</b> <br>
+  <sub> This paper investigates the effects of impulse response misidentification and estimation under a sub-space VAR model employing Structural VAR (SVAR) and Local Projection (LP). We investigate the bias-variance trade-off between SVAR and LP impulse response estimates under a subspace VAR process. </sub>

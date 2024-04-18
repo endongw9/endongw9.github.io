@@ -14,7 +14,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests foucs on time series econometrics and applied macroeconomics. In particular, I explore econometric models to tackle questions on dynamic causality and counterfactual analysis in macroeconomics. 
 
-You can download a PDF copy of my CV [here](/files/CV_Wang.pdf).
+You can find my CV [here](/files/CV_Wang.pdf).
 
 ## Current research interests in theoretical Econometrics
 * Vector Autoregression (VAR) and local/linear projection (LP)

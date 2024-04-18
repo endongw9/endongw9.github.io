@@ -27,6 +27,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 # Recent & upcoming presentations
 * ES-NASM, Nashville, TN, Jun 2024 (scheduled)
 * CEA Annual Conference, Toronto, ON, Jun 2024 (scheduled)
+* CIREQ PhD Students’ Conference, Montreal, QC, May 2024 (scheduled)
 * CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May, 2024 (scheduled)
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Feb 2024
 * ES-NAWM, San Antonio, TX, Jan 2024

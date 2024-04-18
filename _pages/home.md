@@ -12,18 +12,17 @@ redirect_from:
 
 # Welcome to my website!
 
-I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are econometrics and applied macroeconomics. In particular, I study identification, estimation, and statistical inference for both low and high dimensional time series models, including (Structural)-Vector Autoregression (SVAR), Vector Autoregressive and Moving Average (VARMA), and Local Projection/Linear Projection.
+I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests foucs on time series econometrics and applied macroeconomics. In particular, I explore econometric models to tackle questions on dynamic causality and counterfactual analysis in macroeconomics. 
 
-In the field of applied macroeconomics, I employ the econometrics techniques to investigate causal mechanisms and carry out counterfactual analyses for macro variable dynamics. Specifically, the causal mechanism quantifies the mediation effect of specific macro-variables in the causal transmission of an shock of interest, and the counterfactual analysis evaluates the impact of a hypothetical scenario on vital macroeconomic aggregates. Empirical applications are primiarly centered around money, interest rate, and inflation.
-
-## Current research interests on Econometrics
-* Vector Autoregression (VAR) and local/linear projection: multi-horizon causality and structural impulse response
+## Current research interests in theoretical Econometrics
+* Vector Autoregression (VAR) and local/linear projection (LP)
 * High dimensionality in time series
 * Vector Autoregressive and Moving Average (VARMA) model
 
-## Current research interests on Applied Macroeconomics
+## Applications in Macroeconomics
+* Dynamic causality: impulse response/Granger causality
 * Counterfactual analysis and mediation analysis
-* Applications on monetary policy, inflation rate, and economic growth rate
+* Casual transmission mechanism
 
 # Recent & upcoming presentations
 * CEA Annual Conference, Toronto, ON, Jun 2024 (scheduled)

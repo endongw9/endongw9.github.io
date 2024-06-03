@@ -12,7 +12,7 @@ redirect_from:
 
 # Welcome to my website!
 
-I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are time series econometrics and applied macroeconomics. In particular, I explore econometric models to tackle questions on dynamic causality and counterfactual analysis in macroeconomics. You can find my CV [here](/files/CV_Wang.pdf).
+I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are econometrics and applied macroeconomics. In particular, I explore econometric models to tackle questions on dynamic causality and counterfactual analysis in macroeconomics. You can find my CV [here](/files/CV_Wang.pdf).
 
 ## Research topics on theoretical Econometrics
 * Vector Autoregression (VAR) and local/linear projection (LP)
@@ -26,9 +26,9 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 
 # Recent & upcoming presentations
 * ES-NASM, Nashville, TN, Jun 2024 (scheduled)
-* CEA Annual Conference, Toronto, ON, Jun 2024 (scheduled)
-* CIREQ PhD Students’ Conference, Montreal, QC, May 2024 (scheduled)
-* CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May, 2024 (scheduled)
+* CEA Annual Conference, Toronto, ON, Jun 2024 
+* CIREQ PhD Students’ Conference, Montreal, QC, May 2024 
+* CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May, 2024 
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Feb 2024
 * ES-NAWM, San Antonio, TX, Jan 2024
 * Joint Statistical Meetings, Toronto, ON, Aug 2023

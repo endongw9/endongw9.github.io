@@ -25,10 +25,11 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Casual transmission mechanism
 
 # Recent & upcoming presentations
-* ES-NASM, Nashville, TN, Jun 2024 (scheduled)
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2024
+* ES-NASM, Nashville, TN, Jun 2024* 
 * CEA Annual Conference, Toronto, ON, Jun 2024 
 * CIREQ PhD Students’ Conference, Montreal, QC, May 2024 
-* CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May, 2024 
+* CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May 2024 
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Feb 2024
 * ES-NAWM, San Antonio, TX, Jan 2024
 * Joint Statistical Meetings, Toronto, ON, Aug 2023

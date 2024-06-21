@@ -24,9 +24,10 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Counterfactual analysis and mediation analysis
 * Casual transmission mechanism
 
-# Recent & upcoming presentations
-* CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2024
-* ES-NASM, Nashville, TN, Jun 2024* 
+# Recent & upcoming presentation 
+* NBER-NFS Time Series conference, Philadelphia, PA, Sep 2024 (scheduled)
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2024 (scheduled)
+* ES-NASM, Nashville, TN, Jun 2024 
 * CEA Annual Conference, Toronto, ON, Jun 2024 
 * CIREQ PhD Students’ Conference, Montreal, QC, May 2024 
 * CIREQ-CMP Econometrics Conference in Honor of Eric Ghysels, Montreal, QC, May 2024 

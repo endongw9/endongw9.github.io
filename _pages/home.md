@@ -17,7 +17,6 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 ## Research topics on theoretical Econometrics
 * Vector Autoregression (VAR) and local/linear projection (LP)
 * High dimensionality in time series
-* Vector Autoregressive and Moving Average (VARMA) model
 
 ## Applications in Macroeconomics
 * Dynamic causality: impulse response/Granger causality

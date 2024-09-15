@@ -23,6 +23,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 
 # Recent & upcoming presentation 
 * ES-NAWM, San Francisco, CA, Jan 2025 (scheduled)
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Nov 2024 (scheduled)
 * Annual Meeting of the Canadian Econometrics Study Group, Toronto, ON, Oct 2024 (scheduled)
 * Dagenais seminar at the Université de Montréal, Montreal, QC, Oct 2024 (scheduled)
 * NBER-NFS Time Series conference, Philadelphia, PA, Sep 2024 (scheduled)

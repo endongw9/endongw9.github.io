@@ -14,11 +14,9 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2025. My research interests are econometrics, applied macroeconomics, and high dimensional time series. In particular, I <b>explore econometric models, develop estimation methods, and derive statistical inference</b> to tackle questions on <b>dynamic causality and counterfactual analysis in macroeconomics</b>. You can find my CV [here](/files/CV_Wang.pdf).
 
-## Research topics on theoretical Econometrics
+## Research topics 
 * Vector Autoregression (VAR) and local/linear projection (LP)
 * High dimensionality in time series
-
-## Applications in Macroeconomics
 * Dynamic causality: impulse response/Granger causality
 * Counterfactual analysis and mediation analysis
 * Casual transmission mechanism
@@ -26,6 +24,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 # Recent & upcoming presentation 
 * ES-NAWM, San Francisco, CA, Jan 2025 (scheduled)
 * Annual Meeting of the Canadian Econometrics Study Group, Toronto, ON, Oct 2024 (scheduled)
+* Dagenais seminar at the Université de Montréal, Montreal, QC, Oct 2024 (scheduled)
 * NBER-NFS Time Series conference, Philadelphia, PA, Sep 2024 (scheduled)
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2024 
 * ES-NASM, Nashville, TN, Jun 2024 

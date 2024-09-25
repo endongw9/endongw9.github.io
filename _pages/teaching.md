@@ -9,7 +9,7 @@ title: ""
 * ECON 662D2, Econometrics, Winter 2023 (PhD course, teach jointly with Prof. Saraswata Chaudhuri)
 * ECON 742, Empirical Microeconomics, Winter 2023 (Microeconometrics, PhD course, teach jointly with Prof. Saraswata Chaudhuri)
 
-# Teaching assisstant (McGill University)
+# Teaching assistant (McGill University)
 
 * ECON 209, Intro to Macroeconomics, Winter 2024
 * ECON 661, Applied Time Series & Forecast, Fall 2023

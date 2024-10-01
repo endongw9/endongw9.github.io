@@ -21,7 +21,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 
 ## Research topics in Applied Macroeconomics (Monetary policy)
 * Counterfactual analysis and mediation analysis
-* Casual transmission mechanism
+* Causal transmission mechanism
 
 # Recent & upcoming presentation 
 * ES-NAWM, San Francisco, CA, Jan 2025 (scheduled)

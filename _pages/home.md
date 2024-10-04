@@ -23,7 +23,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Counterfactual analysis and mediation analysis
 * Causal transmission mechanism
 
-# Recent & upcoming presentation 
+# Recent & upcoming presentations 
 * ES-NAWM, San Francisco, CA, Jan 2025 (scheduled)
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Nov 2024 (scheduled)
 * Annual Meeting of the Canadian Econometrics Study Group, Toronto, ON, Oct 2024 (scheduled)

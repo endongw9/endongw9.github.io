@@ -25,7 +25,7 @@ title: ""
     </sub>
   </div>
   <div style="flex: 30%;">
-    <img src="weight_orth.png" alt="Website Logo" width="300" height="200"/>
+    ![Website Logo](weight_orth.png)
   </div>
 </div>
 

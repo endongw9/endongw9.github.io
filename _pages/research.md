@@ -19,8 +19,16 @@ title: ""
     
 * <b> “Causal mechanism and mediation analysis for macroeconomics dynamics”  </b> with Jean-Marie Dufour (McGill University). April 2024, 32 pages. <br>
         _previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”_ <br>
-       <sub> In macroeconomic dynamics, a primary objective is to disentangle the contribution of individual variables in the causal transmission of exogenous interventions across multiple horizons. This paper introduces an innovative index that quantitatively measures the weighted contribution of variables during the propagation of a structural shock over time, offering researchers a perspicuous understanding of the causal transmission mechanisms. The index is based on the novel concept of ‘impulse response decomposition,’ which shows that the impulse response is attributed to the systematic responses of endogenous variables influenced by the initial shock. We employ a counterfactual exercise to evaluate the index under the scenario that the variable of interest has no mediation effect on the output variable in the shock propagation. We apply our channel index to quantify the dynamic contribution of each variable in an inflation shock transmission, thereby illuminating the causal mechanism of inflation on output.  
-   <img src="weight_orth.png" alt="Website Logo" width="300" height="200"/>  
+   <table>
+  <tr>
+    <td>
+      <sub>In macroeconomic dynamics, a primary objective is to disentangle the contribution of individual variables in the causal transmission of exogenous interventions across multiple horizons. This paper introduces an innovative index that quantitatively measures the weighted contribution of variables during the propagation of a structural shock over time, offering researchers a perspicuous understanding of the causal transmission mechanisms. The index is based on the novel concept of ‘impulse response decomposition,’ which shows that the impulse response is attributed to the systematic responses of endogenous variables influenced by the initial shock. We employ a counterfactual exercise to evaluate the index under the scenario that the variable of interest has no mediation effect on the output variable in the shock propagation. We apply our channel index to quantify the dynamic contribution of each variable in an inflation shock transmission, thereby illuminating the causal mechanism of inflation on output.
+    </td>
+    <td>
+      <img src="weight_orth.png" alt="Website Logo" width="300" height="200"/>
+    </td>
+  </tr>
+</table> 
 
 
 

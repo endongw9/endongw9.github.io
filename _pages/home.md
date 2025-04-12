@@ -24,11 +24,13 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Causal transmission mechanism
 
 # Recent & upcoming presentations 
-* ES-NAWM, San Francisco, CA, Jan 2025 (scheduled)
-* CIREQ-McGill Lunch Seminar, Montreal, QC, Nov 2024 (scheduled)
-* Annual Meeting of the Canadian Econometrics Study Group, Toronto, ON, Oct 2024 (scheduled)
-* Dagenais seminar at the Université de Montréal, Montreal, QC, Oct 2024 (scheduled)
-* NBER-NFS Time Series conference, Philadelphia, PA, Sep 2024 (scheduled)
+* International Association for Applied Econometrics, Torin, Italy, Jun 2025 (scheduled)
+* CIREQ Econometrics Conference on Recent Developments in Identification and Inference, Montreal, Apr 2025 (scheduled)
+* ES-NAWM, San Francisco, CA, Jan 2025 
+* CIREQ-McGill Lunch Seminar, Montreal, QC, Nov 2024 
+* Annual Meeting of the Canadian Econometrics Study Group, Toronto, ON, Oct 2024 
+* Dagenais seminar at the Université de Montréal, Montreal, QC, Oct 2024 
+* NBER-NFS Time Series conference, Philadelphia, PA, Sep 2024 
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Jul 2024 
 * ES-NASM, Nashville, TN, Jun 2024 
 * CEA Annual Conference, Toronto, ON, Jun 2024 

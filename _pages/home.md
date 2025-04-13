@@ -24,7 +24,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Causal transmission mechanism
 
 # Recent & upcoming presentations 
-* International Association for Applied Econometrics, Torin, Italy, Jun 2025 (scheduled)
+* International Association for Applied Econometrics, Turin, Italy, Jun 2025 (scheduled)
 * CIREQ Econometrics Conference on Recent Developments in Identification and Inference, Montreal, Apr 2025 (scheduled)
 * ES-NAWM, San Francisco, CA, Jan 2025 
 * CIREQ-McGill Lunch Seminar, Montreal, QC, Nov 2024 

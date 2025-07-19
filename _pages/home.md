@@ -18,7 +18,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/ec
 * Vector Autoregression and local/linear projection 
 * High dimensionality in time series
 
-## Research topics in Applied Macroeconomics (Monetary policy)
+## Research topics in Applied Macroeconomics 
 * Counterfactual analysis and mediation analysis
 * Causal transmission mechanism
 

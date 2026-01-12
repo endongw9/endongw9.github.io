@@ -12,15 +12,13 @@ redirect_from:
 
 # Welcome to my website!
 
-I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). <b>Later this year, I will join the University of Mannheim as an Assistant Professor of Theoretical Econometrics and Statistics.</b> My research interests are econometrics, applied macroeconomics, and high dimensional time series. In particular, I explore econometric models, develop estimation methods, and derive statistical inference to tackle questions on dynamic causality and counterfactual analysis in macroeconomics. You can find my CV [here](/files/CV_Wang.pdf).
+I am an Assistant Professor at the University of Mannheim. My research interests span econometrics, applied macroeconomics, and high-dimensional time series analysis. In particular, my work focuses on empirical macroeconomic causal inference and financial connectedness. You can find my CV [here](/files/CV_Wang.pdf).
 
-## Research topics in Econometrics
+## Research topics 
 * Vector Autoregression and local/linear projection 
 * High dimensionality in time series
+* Causal inference and causal mediation analysis in macroeconomics
 
-## Research topics in Applied Macroeconomics 
-* Counterfactual analysis and mediation analysis
-* Causal transmission mechanism
 
 
 

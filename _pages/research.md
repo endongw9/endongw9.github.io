@@ -6,12 +6,12 @@ title: ""
 
 # Working Papers
 
-* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)</b> <br>
+* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)</b> (under review) <br>
      
 
-* <b>‘‘Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality’’</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). [arXiv](https://arxiv.org/abs/2409.10820) <br> 
+* <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820) </b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). (under review) <br> 
     
-* <b> ‘‘Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality’’</b> with [Eugène  Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). <br> [arXiv](https://arxiv.org/abs/2410.04330) <br> 
+* <b> [Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330)</b> with [Eugène  Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). (under review) <br> 
     
 * <b> “Causal mechanism and mediation analysis for macroeconomics dynamics”  </b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br>
         _previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”_ <br>

@@ -6,8 +6,7 @@ title: ""
 
 # Working Papers
 
-* <b> “Local projections identify the same policy counterfactuals as empirical and structural
-models”  [arXiv](https://arxiv.org/abs/2409.09577) <br> 
+* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)</b> <br>
      
 
 * <b>‘‘Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality’’</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). [arXiv](https://arxiv.org/abs/2409.10820) <br> 

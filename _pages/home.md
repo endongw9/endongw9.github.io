@@ -17,7 +17,7 @@ I am an Assistant Professor at the University of Mannheim. My research interests
 ## Research topics 
 * Vector Autoregression and local/linear projection 
 * High dimensionality in time series
-* Causal inference and causal mediation analysis in macroeconomics
+* Causal mediation and counterfactuals in macroeconomics
 
 
 

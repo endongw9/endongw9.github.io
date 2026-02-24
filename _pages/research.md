@@ -14,7 +14,7 @@ models”  [arXiv](https://arxiv.org/abs/2409.09577) <br>
     
 * <b> ‘‘Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality’’</b> with [Eugène  Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). <br> [arXiv](https://arxiv.org/abs/2410.04330) <br> 
     
-* <b> “Causal mechanism and mediation analysis for macroeconomics dynamics”  </b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). April 2024, 32 pages. <br>
+* <b> “Causal mechanism and mediation analysis for macroeconomics dynamics”  </b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br>
         _previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”_ <br>
 
 # Work in Progress

@@ -6,11 +6,14 @@ title: ""
 
 
 
-**Email:** [endong.wang@mail.mcgill.ca](mailto:endong.wang@mail.mcgill.ca) 
+**Email:** [endong.wang@uni-mannheim.de](mailto:endong.wang@uni-mannheim.de)
 
-**Phone:** +1-514-772-7078
-  
-## Mailing Address  
-Leacock Building, Room 414  
-855 Sherbrooke Street West  
-Montreal, QC, Canada H3A 2T7
+**Phone:** +49 621 181-1879
+
+## Mailing Address
+
+University of Mannheim  
+Department of Econometrics  
+L 7, 3–5, Room 124  
+68161 Mannheim  
+Germany

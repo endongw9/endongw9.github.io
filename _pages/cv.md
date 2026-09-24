@@ -10,5 +10,5 @@ redirect_from:
 
 
 
-<iframe src="/files/CV_Wang.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 

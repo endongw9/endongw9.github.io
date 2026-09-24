@@ -8,8 +8,8 @@ title: ""
 
 ## University of Mannheim
 
-* Microeconometrics (Bachelor's course)
-* E508 Macroeconometrics (Master's course)
+* Microeconometrics 
+* E508 Macroeconometrics 
 
 ## McGill University
 

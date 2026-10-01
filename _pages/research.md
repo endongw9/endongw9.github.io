@@ -7,25 +7,22 @@ title: ""
 
 ## Networks and High-Dimensional Econometrics
 
-* <b>[Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330)</b> with [Eugène Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). (R&R, JBES) <br><br>
-
-* <b>Mixed Membership Estimation in Bayesian Network Autoregression</b> with [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim). (R&R, The Econometrics Journal) <br><br>
-
-* <b>Mixed Membership Estimation in Partial Correlation Network</b> with [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim). <br><br>
-
-* <b>The Horizon Structure of Contagion: High-Dimensional Measurement and Inference</b> with [Abderrahim Taamouti](https://sites.google.com/view/ataamouti) (University of Liverpool) and [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim). <br><br>
+* <b>[Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330)</b> with [Eugène Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). (R&R, JBES)
+* <b>[Mixed Membership Estimation in Bayesian Network Autoregression](https://playsiao.github.io/files/Mixed_Membership_Estimation_in_Bayesian_Network_Autoregression.pdf)</b> with [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim). (R&R, The Econometrics Journal)
+* <b>[Mixed Membership Estimation in Partial Correlation Network](https://playsiao.github.io/files/Mixed_membership_estimation_in_2PPCN.pdf)</b> with [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim).
+* <b>[The Horizon Structure of Contagion: High-Dimensional Measurement and Inference](https://playsiao.github.io/files/Financial_connected_network.pdf)</b> with [Abderrahim Taamouti](https://sites.google.com/view/ataamouti) (University of Liverpool) and [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim).
 
 
 ## Macroeconometrics and Dynamic Causal Effects
 
-* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)</b> <br><br>
+* <b>[Intentionally Overidentifying Local Projections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7547021)</b> with [Junjie Guo](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4443402) (Central University of Finance and Economics) and [Ke-Li Xu](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=580609) (Indiana University Bloomington).
+* <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820)</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University).
+* <b>Causal mechanism and mediation analysis for macroeconomic dynamics</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br>
+  *previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”*
+* <b>Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522) (McCoy College of Business, Texas State University).</b>
+* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)
 
-* <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820)</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br><br>
 
-* <b>Causal mechanism and mediation analysis for macroeconomics dynamics</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br>
-  _previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”_ <br><br>
-
-* <b>Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522) (McCoy College of Business, Texas State University). <br><br>
 
 
 

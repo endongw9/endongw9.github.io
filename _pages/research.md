@@ -15,9 +15,9 @@ title: ""
 
 ## Macroeconometrics and Dynamic Causal Effects
 
+* <b>[Transmission channels, dynamic mediation, and higher-order impulse responses](https://arxiv.org/abs/2509.05284)</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University) (R&R JEDC). <br>
 * <b>[Intentionally Overidentifying Local Projections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7547021)</b> with [Junjie Guo](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4443402) (Central University of Finance and Economics) and [Ke-Li Xu](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=580609) (Indiana University Bloomington).
 * <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820)</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University).
-* <b>Causal mechanism and mediation analysis for macroeconomic dynamics</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University). <br>
   *previous title “Intervention analysis, causality and generalized impulse responses in VAR models: theory and inference”*
 * <b>Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522) (McCoy College of Business, Texas State University).</b>
 * <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)

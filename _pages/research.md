@@ -23,7 +23,7 @@ title: ""
 * <b>[When Does N Buy Precision? Heterogeneous Responses to Aggregate Shocks in Micro Panels](https://arxiv.org/abs/2611.00677){: style="text-decoration:none"}</b> with [Mahmut Ablay](https://sites.google.com/view/mahmutablay/home){: style="text-decoration:none"} (Central Bank of the Republic of Türkiye) and [Mengshan Xu](https://sites.google.com/view/mengshan-xu){: style="text-decoration:none"} (University of Mannheim).
 * <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820){: style="text-decoration:none"}</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html){: style="text-decoration:none"} (McGill University).
 * <b>[Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV](https://arxiv.org/abs/2611.14434){: style="text-decoration:none"}</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522){: style="text-decoration:none"} (McCoy College of Business, Texas State University).
-* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577){: style="text-decoration:none"}</b>
+<!--* <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577){: style="text-decoration:none"}</b>-->
 
 
 

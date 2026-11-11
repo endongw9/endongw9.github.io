@@ -4,15 +4,6 @@ title: ""
 ---
 
 
-<style>
-a, a:visited, a:hover, a:focus {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-  background-image: none !important;
-}
-</style>
-
 
 # Working Papers
 

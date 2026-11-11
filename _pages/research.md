@@ -3,14 +3,20 @@ permalink: /research/
 title: ""
 ---
 
+
+<style>
+a, a:visited, a:hover, a:focus {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+</style>
+
+
 # Working Papers
 
 ## Networks and High-Dimensional Econometrics
-<style>
-  a:any-link {
-    text-decoration: none !important;
-  }
-</style>
 
 * <b>[Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330)</b> with [Eugène Dettaa](https://eugenedettaa.github.io/) (Université de Montréal). (R&R, JBES)
 * <b>[Mixed Membership Estimation in Bayesian Network Autoregression](https://playsiao.github.io/files/Mixed_Membership_Estimation_in_Bayesian_Network_Autoregression.pdf)</b> with [Siao Xu](https://playsiao.github.io/index.html) (University of Mannheim). (R&R, The Econometrics Journal)

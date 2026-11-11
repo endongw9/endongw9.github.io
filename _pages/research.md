@@ -19,7 +19,7 @@ title: ""
 * <b>[Intentionally Overidentifying Local Projections](https://arxiv.org/abs/2610.13269)</b> with [Junjie Guo](https://junjguomacro.weebly.com/) (Central University of Finance and Economics) and [Ke-Li Xu](https://sites.google.com/view/kelixu) (Indiana University Bloomington).
 * <b>[When Does N Buy Precision? Heterogeneous Responses to Aggregate Shocks in Micro Panels](https://arxiv.org/abs/2611.00677)</b> with [Mahmut Ablay](https://sites.google.com/view/mahmutablay/home) (Central Bank of the Republic of Türkiye) and [Mengshan Xu](https://sites.google.com/view/mengshan-xu) (University of Mannheim).
 * <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820)</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html) (McGill University).
-* <b>Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522) (McCoy College of Business, Texas State University).
+* <b>[Hedging out the HEDGE Bias: Identifying Dynamic Partial-Equilibrium Effects with Panel LP-IV](https://arxiv.org/abs/2611.14434)</b> with [Ren Zhang](https://faculty.txst.edu/profile/2252522) (McCoy College of Business, Texas State University).
 * <b>[Local projections identify the same policy counterfactuals as empirical and structural models](https://arxiv.org/abs/2409.09577)
 
 

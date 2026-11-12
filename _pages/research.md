@@ -9,16 +9,11 @@ title: ""
 
 # Working Papers
 
-## Networks and High-Dimensional Econometrics
-
-* <b>[Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330){: style="text-decoration:none"}</b> with [Eugène Dettaa](https://eugenedettaa.github.io/){: style="text-decoration:none"} (Université de Montréal). (R&R, JBES)
+* <b>[Sparse VARs do not imply sparse local projections: robust inference for high-dimensional Granger causality](https://arxiv.org/abs/2410.04330){: style="text-decoration:none"}</b> with [Eugène Dettaa](https://eugenedettaa.github.io/){: style="text-decoration:none"} (Université de Montréal). (R&R, Journal of Business & Economic Statistics)
 * <b>[Mixed Membership Estimation in Bayesian Network Autoregression](https://playsiao.github.io/files/Mixed_Membership_Estimation_in_Bayesian_Network_Autoregression.pdf){: style="text-decoration:none"}</b> with [Siao Xu](https://playsiao.github.io/index.html){: style="text-decoration:none"} (University of Mannheim). (R&R, The Econometrics Journal)
-* <b>[Mixed Membership Estimation in Partial Correlation Network](https://playsiao.github.io/files/Mixed_membership_estimation_in_2PPCN.pdf){: style="text-decoration:none"}</b> with [Siao Xu](https://playsiao.github.io/index.html){: style="text-decoration:none"} (University of Mannheim).
+* <b>[Mixed Membership Estimation in Partial Correlation Network](https://playsiao.github.io/files/Mixed_membership_estimation_in_2PPCN.pdf){: style="text-decoration:none"}</b> with [Siao Xu](https://playsiao.github.io/index.html){: style="text-decoration:none"} (University of Mannheim). (R&R Journal of Applied Econometrics)
+* <b>[Transmission channels, dynamic mediation, and higher-order impulse responses](https://arxiv.org/abs/2509.05284){: style="text-decoration:none"}</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html){: style="text-decoration:none"} (McGill University). (R&R Journal of Economic Dynamics and Control) <br>
 * <b>[The Horizon Structure of Contagion: High-Dimensional Measurement and Inference](https://playsiao.github.io/files/Financial_connected_network.pdf){: style="text-decoration:none"}</b> with [Abderrahim Taamouti](https://sites.google.com/view/ataamouti){: style="text-decoration:none"} (University of Liverpool) and [Siao Xu](https://playsiao.github.io/index.html){: style="text-decoration:none"} (University of Mannheim).
-
-## Macroeconometrics and Dynamic Causal Effects
-
-* <b>[Transmission channels, dynamic mediation, and higher-order impulse responses](https://arxiv.org/abs/2509.05284){: style="text-decoration:none"}</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html){: style="text-decoration:none"} (McGill University) (R&R JEDC). <br>
 * <b>[Intentionally Overidentifying Local Projections](https://arxiv.org/abs/2610.13269){: style="text-decoration:none"}</b> with [Junjie Guo](https://junjguomacro.weebly.com/){: style="text-decoration:none"} (Central University of Finance and Economics) and [Ke-Li Xu](https://sites.google.com/view/kelixu){: style="text-decoration:none"} (Indiana University Bloomington).
 * <b>[When Does N Buy Precision? Heterogeneous Responses to Aggregate Shocks in Micro Panels](https://arxiv.org/abs/2611.00677){: style="text-decoration:none"}</b> with [Mahmut Ablay](https://sites.google.com/view/mahmutablay/home){: style="text-decoration:none"} (Central Bank of the Republic of Türkiye) and [Mengshan Xu](https://sites.google.com/view/mengshan-xu){: style="text-decoration:none"} (University of Mannheim).
 * <b>[Simple robust two-stage estimation and inference for generalized impulse responses and multiple-horizon causality](https://arxiv.org/abs/2409.10820){: style="text-decoration:none"}</b> with [Jean-Marie Dufour](https://monde.cirano.qc.ca/~dufourj/Web_Site/dufour.html){: style="text-decoration:none"} (McGill University).
